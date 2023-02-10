@@ -1,0 +1,178 @@
+body {
+    background-position: center;
+    background-size: cover;
+    height: auto;
+    margin: auto;
+    background-color: #fff;
+    }
+
+  nav {
+    display: flex;
+    height: 120px;
+    align-items: center;
+    justify-content: space-between;
+    background-color: #fff;
+    margin-left: 70px;
+    margin-top: 35px;
+  }
+
+  .nav-items {
+    display: flex;
+    flex-direction: row;
+    gap: 80px;
+    font-size: 30px;
+    font-family: sans-serif;
+    align-items: center;
+    margin-left: 70px;
+  }
+
+  .nav-item-active-item {
+     color:  rgb(255, 68, 0);
+     font-size: 31px;
+  }
+
+  .nav-item {
+    font-family: calibri;
+  }
+
+  .left-section {
+    display: flex;
+    flex-direction: column;
+    margin-left: 70px;
+    font-size: 40px;
+  }
+ 
+ .left-section h1 {
+     margin-top: -25px;
+     font-family: Franklin Gothic Medium;
+     font: bold;
+  }
+
+  span {
+    font-size: 30px;
+    background-color:  rgb(255, 68, 0);
+    padding: 5px 15px;
+    color: #fff;
+    border-radius: 80px;
+    
+  }
+
+ .sub-headlines {
+    margin-left: 100px;
+    margin-top: -40px;
+    line-height: 1px;
+    font-size: 35px;
+  }
+
+  .text {
+    font-size: 20px;
+    color: rgb(193, 181, 181);
+    margin-left: 20px;
+  }
+
+  .action-btn {
+    color: #fff;
+    background-color: rgb(255, 68, 0);
+    font-size: 25px;
+    border: none;
+    border-radius: 40px;
+    padding: 20px 30px;
+    margin-left: 25px;
+  }
+
+  .action-btns {
+    margin-top: 50px;
+     }
+
+.headphone-div {
+   display: flex;
+   justify-content: flex-end;
+   margin-top: 20px;
+}
+
+.headphone {
+  margin-top: -60px;
+}
+
+.discount-content h4 {
+    font-size: 15px ;
+    margin-top: 265px;
+    margin-right: -100px;
+    text-align: center;
+    color: #fff;
+}
+ 
+.discount-content h1 {
+    font-size: 60px;
+    margin-right: -100px;
+    color: #fff;
+}
+
+.discount-content {
+    line-height: 1px;
+    margin-top: 130px;
+    font-family: sans-serif;
+    margin-left: -295px;
+    margin-top: 130px;
+    z-index: 2;
+    position: relative;
+}
+
+.discount {
+  position: relative;
+  z-index: 1;
+  margin-top: 312px;
+  margin-right: 145px; 
+  }
+
+.right-section  {
+    margin-right: 200px;
+    margin-top: -700px;
+}
+
+.action-btnn {
+    color: #fff;
+    background-color: rgb(255, 68, 0);
+    font-size: 25px;
+    border: none;
+    border-radius: 40px;
+    padding: 20px 30px;
+    margin-left: 1270px;
+    margin-top: 10px;
+  }
+
+  .yellow-dot {
+    height: 25px;
+  width: 25px;
+  background-color: yellow;
+  border-radius: 50%;
+  display: inline-block;
+  }
+
+  .tomato-dot {
+    height: 25px;
+  width: 25px;
+  background-color:  rgb(255, 68, 0);
+  border-radius: 50%;
+  display: inline-block;
+  }
+ 
+  .black-dot {
+    height: 25px;
+  width: 25px;
+  background-color: #000;
+  border-radius: 50%;
+  display: inline-block;
+  }
+
+  .dots {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    margin-right: 232px;
+    margin-top: -10px;
+    margin-bottom: 40px;
+    gap: 40px;
+  }
+
+  
