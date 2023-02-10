@@ -11,7 +11,7 @@
 ## About section and skills gained from project
 - This project was coded using only HTML and CSS. 
 
-- The skills gained from this project were CSS postioning in detail like how we can use relative & absolute position in combination so that items can be placed on top of each other. 
+- The skills gained from this project were CSS postioning in detail like how we can use relative & absolute position in combination so that items can be placed on top of each other, Z-index and learned about media query.
 
 - Flex box and pseudo classes like :nth-child(),:last-child, :first-child, etc.
 
