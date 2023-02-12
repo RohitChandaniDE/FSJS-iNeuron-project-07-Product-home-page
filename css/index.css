@@ -3,7 +3,7 @@ body {
     background-size: cover;
     height: auto;
     margin: auto;
-    background-color: #fff;
+    max-width: 90rem;
     }
 
   nav {
@@ -65,7 +65,7 @@ body {
   }
 
   .text {
-    font-size: 20px;
+    font-size: 17px;
     color: rgb(193, 181, 181);
     margin-left: 20px;
   }
@@ -126,7 +126,7 @@ body {
   }
 
 .right-section  {
-    margin-right: 200px;
+    margin-right: 40px;
     margin-top: -700px;
 }
 
@@ -137,7 +137,7 @@ body {
     border: none;
     border-radius: 40px;
     padding: 20px 30px;
-    margin-left: 1270px;
+    margin-left: 1000px;
     margin-top: 10px;
   }
 
