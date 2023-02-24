@@ -307,6 +307,10 @@ body {
    margin-bottom: 10px;
   }
 
+  .action-btns {
+    margin-left: 25px;
+  }
+
   .discount-content {
     margin-left: -285px
   }
